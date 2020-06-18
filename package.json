@@ -1,0 +1,8 @@
+{
+  "name": "ajaxjsonquiz",
+  "description": "Ajax-JSON Quiz",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

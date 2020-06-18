@@ -1,0 +1,38 @@
+main {
+  margin: 20px auto;
+  max-width: 500px;
+}
+
+button {
+  font-size: 16pt;
+  margin: 10px;
+}
+
+.question-row {
+  clear: left;
+  height: 20px;
+  margin-bottom: 10px;
+  width: 400px;
+}
+
+.answer,
+.question {
+  float: left;
+  width: 150px;
+}
+
+.result {
+  float: left;
+}
+
+.right {
+  color: green;
+}
+
+.wrong {
+  color: red;
+}
+
+.unanswered {
+  color: gray;
+}
